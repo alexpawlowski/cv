@@ -1,22 +1,22 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Alex Pawlowski's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Alex Pawlowski
+Energy Science and Engineering PhD focused in Transportation Science
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:apawlows@vols.utk.edu">apawlows@vols.utk.edu</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/alexpawlowski">alexpawlowski</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/alexpawlowski_">alexpawlowski_</a>
 </div>
 
 
 ## Currently
 
-I'm a final-year bioinformatics PhD student at the University of Edinburgh, due to finish around September 2015. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
+I'm a rising second-year Energy Science and Engineering PhD student at the University of Tennessee, focusing on Transportation Science. So far, I have presented a paper in fuel economy trends and the efficacy of higher octane fuel with scenarios of current spark-ignited combustion engine, and have been cornering funding for a project to address a challenge in gasoline spark ignited engines. Using my background in material science and mechanical engineering, I am identifying how metal additive manufacturing will play a role in advanced engine technologies through the production of casting molds and end use parts. Along the way, I also have taken advantage of working in projects through course at Tennessee in the larger mobility picture. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
 
 ## Education
 
